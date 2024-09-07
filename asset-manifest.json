@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/portfolio-website-balaji/static/css/main.311a1d35.css",
+    "main.js": "/portfolio-website-balaji/static/js/main.1e662694.js",
+    "static/js/488.d9503aef.chunk.js": "/portfolio-website-balaji/static/js/488.d9503aef.chunk.js",
+    "static/media/background.webp": "/portfolio-website-balaji/static/media/background.242e69fd2140b51af669.webp",
+    "static/media/login.png": "/portfolio-website-balaji/static/media/login.f8e2511fdfeb94200c6e.png",
+    "static/media/ai-text-sum.png": "/portfolio-website-balaji/static/media/ai-text-sum.f8555f6e80ee891e4a8f.png",
+    "static/media/Balaji-resume.pdf": "/portfolio-website-balaji/static/media/Balaji-resume.ef296b6b13d9ca07eeef.pdf",
+    "static/media/expenseTracker.jpg": "/portfolio-website-balaji/static/media/expenseTracker.22817e626ca056198d7b.jpg",
+    "static/media/vscode.svg": "/portfolio-website-balaji/static/media/vscode.5f2740d2ce5e0801ef4a90f3f53f5747.svg",
+    "static/media/cpp.svg": "/portfolio-website-balaji/static/media/cpp.7bfa8624c7513b79a3cbbf4a8bedfcbf.svg",
+    "static/media/clang.svg": "/portfolio-website-balaji/static/media/clang.5b9b73ff59cfc332224d7f7871abc992.svg",
+    "static/media/flask.svg": "/portfolio-website-balaji/static/media/flask.2cca57813dda05a32e3922b63222945f.svg",
+    "static/media/linkedin.svg": "/portfolio-website-balaji/static/media/linkedin.0ce23fa8d049880401b5d074d9686110.svg",
+    "static/media/github.svg": "/portfolio-website-balaji/static/media/github.77c8f6ae089d2da306b971a77dcaadff.svg",
+    "static/media/leetcode.svg": "/portfolio-website-balaji/static/media/leetcode.a5bfc331d0a419b794ff62db0dc9fc92.svg",
+    "static/media/favicon.ico": "/portfolio-website-balaji/static/media/favicon.4fe75d5f9adb18067b85.ico",
+    "static/media/mysql.svg": "/portfolio-website-balaji/static/media/mysql.4c50926040e5a77a27dba211addc08e3.svg",
+    "index.html": "/portfolio-website-balaji/index.html",
+    "static/media/javascript.svg": "/portfolio-website-balaji/static/media/javascript.081a6e35732105b0c8e8cc9d0e9aebbd.svg",
+    "static/media/node_js.svg": "/portfolio-website-balaji/static/media/node_js.502737ea1f44b9be4170cafd2bace4e7.svg",
+    "static/media/python.svg": "/portfolio-website-balaji/static/media/python.439dd3d27dbba23fa07acb94633c7a7d.svg",
+    "static/media/react.svg": "/portfolio-website-balaji/static/media/react.6c1d44b8c59f0f72ff199a54ceed774c.svg",
+    "static/media/mongodb.svg": "/portfolio-website-balaji/static/media/mongodb.0781b723446e1f8a1734f7831a9c3313.svg",
+    "static/media/mail.svg": "/portfolio-website-balaji/static/media/mail.eac467265c4768caca2657af600f92fd.svg",
+    "static/media/express.svg": "/portfolio-website-balaji/static/media/express.632d3c32e6c8f71f7f7faf4fb71b945b.svg",
+    "static/media/tailwind.svg": "/portfolio-website-balaji/static/media/tailwind.017e1e304e12384d156d384f40a4b5f8.svg",
+    "static/media/git.svg": "/portfolio-website-balaji/static/media/git.6d27b5e0cde4ddb87e031ca706aa8350.svg",
+    "static/media/html.svg": "/portfolio-website-balaji/static/media/html.87f3f64abde68319b96661c04229b687.svg",
+    "static/media/css.svg": "/portfolio-website-balaji/static/media/css.f0f42bae0d3ad1080b99fa488e9b3a9a.svg",
+    "main.311a1d35.css.map": "/portfolio-website-balaji/static/css/main.311a1d35.css.map",
+    "main.1e662694.js.map": "/portfolio-website-balaji/static/js/main.1e662694.js.map",
+    "488.d9503aef.chunk.js.map": "/portfolio-website-balaji/static/js/488.d9503aef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.311a1d35.css",
+    "static/js/main.1e662694.js"
+  ]
+}
