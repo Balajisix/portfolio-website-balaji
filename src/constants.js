@@ -77,8 +77,8 @@ export const projects = [
       "Crafted a simple yet effective static website using React and deployed it on AWS to track yearly expenses.",
       "Demonstrated proficiency in React development and deployment on cloud infrastructure.",
     ],
-    link: "https://github.com/vipulkumar4321/React-Expense-Tracker",
-    live: "https://project-expense-tracker.mrvipulkumar.com",
+    link: "#",
+    live: "#",
     img: expenseTrackerImg,
   },
   {
@@ -88,7 +88,7 @@ export const projects = [
       "Analyse and identify the text which is prompted by the user and it will summarize into a concise format",
       "Integrated Hugging face inference API model which helps to do the text summarization.",
     ],
-    link: "https://github.com/vipulkumar4321/BIrdFinder/tree/Vipul",
+    link: "#",
     img: defaultImg,
   },
   // {
