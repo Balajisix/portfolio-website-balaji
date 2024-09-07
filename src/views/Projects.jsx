@@ -16,7 +16,7 @@ const Projects = () => {
           ))}
         </div>
         <a
-          href="https://github.com/vipulkumar4321"
+          href="https://github.com/Balajisix"
           class=" w-32 flex items-center py-4 px-4 text-sm font-bold text-center text-gray-100 bg-blue-500 rounded-lg hover:bg-gray-100 hover:text-blue-500 focus:ring-4 focus:outline-none focus:ring-blue-300 mx-auto mt-4"
           target="_blank"
           rel="noreferrer"
