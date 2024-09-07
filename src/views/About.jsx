@@ -19,7 +19,7 @@ const About = () => {
 
           I am currently doing my Master of Computer Applications <span className="text-blue-500 font-bold">(MCA)</span> at <span className="text-blue-500 font-bold">PSG College of Technology</span>. I have finished my B. Sc Computer Technology at KG College of Arts and Science. <br /> <br />
 
-          
+          Growing up, I was always drawn to the digital realm. My passion for computers ignited during my computer science studies, where I discovered the thrill of problem-solving and the satisfaction of building something from scratch. I delve deeper into developing interactive websites, and mastering fundamentals of web development. I'm on a mssion to develop a good product which it'll be more useful for the people
           </p>
           <h2
             className={
